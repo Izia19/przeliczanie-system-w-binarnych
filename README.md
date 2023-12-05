@@ -1,0 +1,1 @@
+# przeliczanie systemow binarnych
