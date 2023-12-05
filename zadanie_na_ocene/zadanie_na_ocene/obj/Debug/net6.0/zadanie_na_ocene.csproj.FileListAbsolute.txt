@@ -1,0 +1,15 @@
+C:\Users\mazur\source\repos\zadanie_na_ocene\zadanie_na_ocene\obj\Debug\net6.0\zadanie_na_ocene.csproj.AssemblyReference.cache
+C:\Users\mazur\source\repos\zadanie_na_ocene\zadanie_na_ocene\obj\Debug\net6.0\zadanie_na_ocene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazur\source\repos\zadanie_na_ocene\zadanie_na_ocene\obj\Debug\net6.0\zadanie_na_ocene.AssemblyInfoInputs.cache
+C:\Users\mazur\source\repos\zadanie_na_ocene\zadanie_na_ocene\obj\Debug\net6.0\zadanie_na_ocene.AssemblyInfo.cs
+C:\Users\mazur\source\repos\zadanie_na_ocene\zadanie_na_ocene\obj\Debug\net6.0\zadanie_na_ocene.csproj.CoreCompileInputs.cache
+C:\Users\mazur\source\repos\zadanie_na_ocene\zadanie_na_ocene\bin\Debug\net6.0\zadanie_na_ocene.exe
+C:\Users\mazur\source\repos\zadanie_na_ocene\zadanie_na_ocene\bin\Debug\net6.0\zadanie_na_ocene.deps.json
+C:\Users\mazur\source\repos\zadanie_na_ocene\zadanie_na_ocene\bin\Debug\net6.0\zadanie_na_ocene.runtimeconfig.json
+C:\Users\mazur\source\repos\zadanie_na_ocene\zadanie_na_ocene\bin\Debug\net6.0\zadanie_na_ocene.dll
+C:\Users\mazur\source\repos\zadanie_na_ocene\zadanie_na_ocene\bin\Debug\net6.0\zadanie_na_ocene.pdb
+C:\Users\mazur\source\repos\zadanie_na_ocene\zadanie_na_ocene\obj\Debug\net6.0\zadanie_na_ocene.dll
+C:\Users\mazur\source\repos\zadanie_na_ocene\zadanie_na_ocene\obj\Debug\net6.0\refint\zadanie_na_ocene.dll
+C:\Users\mazur\source\repos\zadanie_na_ocene\zadanie_na_ocene\obj\Debug\net6.0\zadanie_na_ocene.pdb
+C:\Users\mazur\source\repos\zadanie_na_ocene\zadanie_na_ocene\obj\Debug\net6.0\zadanie_na_ocene.genruntimeconfig.cache
+C:\Users\mazur\source\repos\zadanie_na_ocene\zadanie_na_ocene\obj\Debug\net6.0\ref\zadanie_na_ocene.dll
